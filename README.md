@@ -48,4 +48,4 @@ sh bluxmd.sh
 sh qrcode.sh
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=֎+𝐁𝐋𝐀𝐂𝐊+𝐒𝐘𝐒𝐓𝐄𝐌+֎"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=BLUX+OFC+𝐒𝐘𝐒𝐓𝐄𝐌+MD"> 
