@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@BLUX_">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@BLUX MD">      
 
 <h1 align="center">
 <p>
-<img src= "https://pomf2.lain.la/f/csdvdzvo.jpg" alt="BLACK MD" width="720">
+<img src= "https://pomf2.lain.la/f/csdvdzvo.jpg" alt="BLUX MD" width="720">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ cd /sdcard && git clone https://github.com/bluxofc/blux-bot
 ```
 **4° Comando**
 ```
-cd blackofc && sh blackmd.sh
+cd blackofc && sh bluxmd.sh
 ```
 
 ## 🖲️ START DO BOT 🖲️ <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
@@ -41,7 +41,7 @@ cd blackofc && sh blackmd.sh
 npm start
 ```
 ```
-sh blackmd.sh
+sh bluxmd.sh
 ```
 ## Gerar Um Novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
