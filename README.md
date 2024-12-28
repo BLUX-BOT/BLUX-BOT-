@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "" alt="BLUX MD" width="720">
+<img src= "https://dl.dropboxusercontent.com/scl/fi/148nk8ex8hai7k8pt55az/1735428336896.jpeg?rlkey=0nzorra1orjhtmpj70kymu5wq&dl=0" alt="BLUX MD" width="720">
 </p>
 
 <p align="center">
