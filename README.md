@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@BLUX_">      
 
 <h1 align="center">
 <p>
@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/m4thxyz/blackofc
+cd /sdcard && git clone https://github.com/bluxofc/blux-bot
 ```
 **4° Comando**
 ```
