@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/bluxofc/blux-bot
+cd /sdcard && git clone https://github.com/BLUX-BOT/bluxofc
 ```
 **4° Comando**
 ```
