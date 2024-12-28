@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/deb15c7200f306c2300de.jpg" alt="BLUX MD" width="720">
+<img src= "" alt="BLUX MD" width="720">
 </p>
 
 <p align="center">
