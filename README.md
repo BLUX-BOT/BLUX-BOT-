@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@BLUX_">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@BLUX_MD">      
 
 <h1 align="center">
 <p>
