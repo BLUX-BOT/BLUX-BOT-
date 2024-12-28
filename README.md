@@ -36,14 +36,14 @@ cd /sdcard && git clone https://github.com/bluxofc/blux-bot
 cd bluxofc && sh bluxmd.sh
 ```
 
-## 🖲️ START DO BOT 🖲️ <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+## 🖲️ START DO BOT 🖲️ <img src="[https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png](https://dl.dropboxusercontent.com/scl/fi/148nk8ex8hai7k8pt55az/1735428336896.jpeg?rlkey=0nzorra1orjhtmpj70kymu5wq&dl=0)" height="25px">
 ```
 npm start
 ```
 ```
 sh bluxmd.sh
 ```
-## Gerar Um Novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
+## Gerar Um Novo QR  <img src="[https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png](https://dl.dropboxusercontent.com/scl/fi/148nk8ex8hai7k8pt55az/1735428336896.jpeg?rlkey=0nzorra1orjhtmpj70kymu5wq&dl=0)" height="25px">
 ```
 sh qrcode.sh
 ```
